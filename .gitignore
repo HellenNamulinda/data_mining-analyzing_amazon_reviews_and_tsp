@@ -1,0 +1,4 @@
+data/*.jsonl
+.venv/
+.idea/
+*jsonl
